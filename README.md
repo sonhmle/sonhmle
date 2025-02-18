@@ -1,9 +1,5 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
-<p align="center">
-  <img src="./hello.svg" alt="Hello I am Lee Sown" />
-</p>
-
 **Name**: Lê Hoàng Minh Sơn (you can call me Lee Sown)  
 
 **Birthyear**: 2000  
@@ -75,12 +71,6 @@ Since developing a passion for the field of computer software, I have been makin
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sonhmle&title=MultiLanguage,Commit,Repositories&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-  
-  ![animation-graph](https://github.com/sonhmle/sonhmle/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
